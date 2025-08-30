@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: I'm Just Done
 ---
 I'm starting a new public [[Determining a Soul|Zettelkasten]]. Even if I write thousands of words a day, all of a sudden, I don't know what to write. This thing where you link words is something that I've experimented with before, but it has not been my default at all for over two years of writing over 3.5 million words. I guess it should be as easy as just introducing oneself and one's interests and then just "complicating" it by having each and every single interesting word either turn into a page itself or be a display name for a page to "complicate" that hyperlinked phrase or word. I am using Quartz and Obsidian, and I'm prepared to have it made online, given that I already have a personal website up on Cloudflare Pages. It is really just a matter of beginning this whole new journey and then writing in the first spark that will trigger a myriad other sparks. It will chug on endlessly. Perhaps, this passage itself is a good starting note.
 
