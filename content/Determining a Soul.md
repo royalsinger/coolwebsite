@@ -17,8 +17,12 @@ Plus, if you didn't notice, the way that you speak reveals who you are as a pers
 [^3]: E.g., my now-defunct practical philosophy of focusing on the abstract and being averse to "show, don't tell"
 
 [^4]: Specifically the way that I wrote and engaged, which included how my room appeared, how my desktop was fashioned, and so many other savory details that were all grappled with in the process of reclaiming the self given the nature of my autobiography-journal as an 20-year-old's project with a young adult's desire for "identity integration" as its constitution or charter.
-### Self-Responses
 
-1. Why did they use "Determining a Soul" even if that's not what the note is about? Is this related to the total war?
-2. So they're attacking it by using their full self within its native tongue. It's like, "Can you handle my associativeness? My complication? My metaphoric use of terms in this damning atomized world? Can you cope with me using Switzerland as a metaphor and not linking it immediately to Switzerland as in the actual country? Can you handle my incinerating true self?"
-3. so it's not analysis paralysis because the analysis and the way that they analyze is the content. § Since they're still adjusting to this new country, it feels like wearing alien clothes, so they can see every single detail unlike a native who just accepts everything as is. The foreigner is the analysis paralysis, but it's not analysis paralysis. It's just being new to a way of life. § Like nouveau riche who feel alienated by their previous "the people" peers and by their current "ignorantly rich" peers. They don't want to fit in, and they never do. They will always be in between worlds, more aware of what it means to be "the people" than their previous peers and what it means to be "ignorantly rich" than their current peers because of their combined dialectical perspective.
+> [!question] [[Why Not Have a Separate Note For Each Self-Response|Self-Responses]]
+> 1. Why did they use "Determining a Soul" even if that's not what the note is about? Is this related to the total war?
+> 2. So they're attacking it by using their full self within its native tongue. It's like, "Can you handle my associativeness? My complication? My metaphoric use of terms in this damning atomized world? Can you cope with me using Switzerland as a metaphor and not linking it immediately to Switzerland as in the actual country? Can you handle my incinerating true self?"
+> 3. so it's not analysis paralysis because the analysis and the way that they analyze is the content.
+>     
+>     Since they're still adjusting to this new country, it feels like wearing alien clothes, so they can see every single detail unlike a native who just accepts everything as is. The foreigner is the analysis paralysis, but it's not analysis paralysis. It's just being new to a way of life. 
+>     
+>     Like nouveau riche who feel alienated by their previous "the people" peers and by their current "ignorantly rich" peers. They don't want to fit in, and they never do. They will always be in between worlds, more aware of what it means to be "the people" than their previous peers and what it means to be "ignorantly rich" than their current peers because of their combined dialectical perspective.

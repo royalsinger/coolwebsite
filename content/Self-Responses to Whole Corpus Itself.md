@@ -1,0 +1,1 @@
+ 1. **August 30, 2025:** So they're like a tank entering a grassy field
