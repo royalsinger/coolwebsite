@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Brotherly Forge",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,32 +23,44 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Roboto Slab",
+        body: "Roboto",
+        code: "Roboto Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          // A neutral, slightly off-white background and deep, dark purple-gray for text
+          light: "#fbfaff",
+          lightgray: "#e6e1f0",
+          gray: "#a8a2b5",
+          darkgray: "#5e576d",
+          dark: "#2f2a3a",
+    
+          // Purple is the primary accent color
+          secondary: "#6a4c93",
+          // A vibrant, cheerful yellow for highlights and call-to-actions
+          tertiary: "#ffc93c",
+          // A very subtle, transparent purple for backgrounds and hover states
+          highlight: "rgba(106, 76, 147, 0.1)",
+          // A semi-transparent yellow for marking text
+          textHighlight: "#ffc93c66", // 66 at the end sets ~40% opacity
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          // A deep, dark purple-gray background and light, soft off-white for text
+          light: "#1c1923",
+          lightgray: "#3b364a",
+          gray: "#7e788f",
+          darkgray: "#c8c4d3",
+          dark: "#f2f0f7",
+    
+          // A lighter, more vibrant purple for better contrast on a dark background
+          secondary: "#a48cd3",
+          // The same vibrant yellow, which pops beautifully in dark mode
+          tertiary: "#ffc93c",
+          // A subtle, transparent light purple for backgrounds and hover states
+          highlight: "rgba(164, 140, 211, 0.1)",
+          // A semi-transparent yellow for marking text
+          textHighlight: "#ffc93c55", // 55 at the end sets ~33% opacity
         },
       },
     },
