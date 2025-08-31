@@ -1,1 +1,3 @@
  1. **August 30, 2025:** So they're like a tank entering a grassy field
+ 2. **August 31, 2025:** Why do they privilege ambiguity so much?
+ 3. **August 31, 2025:** So the author is the type of person to write a whole note for almost each word in a passage and then talk about something very metaphorical and conceptual, like hyperlinking "over a thousand words" even if they already hyper-linked "over two years of writing over 3.5 million words," treating the two as very different things, "complicating" it.

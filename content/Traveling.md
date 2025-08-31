@@ -1,0 +1,27 @@
+I just realized that I'm always traveling. I'm like a song that cannot even bother being a finality in itself. It's just an endless loop, like a melody playing the same notes, the gray mist, rain, passersby, other passengers, all kinds of fleeting remote places through which one passes on the road while riding some public transportation vehicle like a bus only a few times, the infitude of tiny little nook-like details, the over a thousand people that I've met throughout the course of my life, and those numerous quiet spots that had a whole infinity of history that I have never known, but which I've only passed by once like a ghost.
+
+I am always traveling through my mind and memories.
+
+Just constant ambiguity. I do not like smooth narrativization, finalities, and endings, whether happy or sad. I very much prefer the constant ache one carries after one reads a book, the feeling that so much has been left unaddressed and that you can only cope with the world you've evoked over the course of your co-creation with the book, this personal relationship and co-creation that you've shared and had, which you will never find yourself truly able to deny as being just another thing, especially when you have been given the time, space, resources, drive, environment, support, encouragement, and incentivization to think about the world beyond what we are fed and what we are given pre-digested.
+
+So yes, I am always traveling, never settled, never OK with the idea that it is simply a win or a lose. This makes me a lot more patient and much less black and white. This provokes me toward becoming much more acceptance of loss not as something to which one has to harden oneself, but as something that one needs to accept alongside joys, openness, honesty, vulnerability, ambiguity, and discomfort as natural byproducts of a fulfilling and healthy mind, body, and life.
+
+My past is not a narrative. It is a place of moments. Countless, ambiguous, complex, unique unrepeatable moments. Minecraft is an example of how a simple game works perfectly as a sandbox where entireties could be found, entire lives that refreshingly sip off sonder. Traveling is a perfect way to view *moments*. Flux of connections being made every single day as one goes through the tapestry of one's incubatory mind. It stretches, contorts, twists, dances, whirls, flutters, and heals up to the horizon.
+
+It is actually what helps me sleep. Because if anything happens, I can just be. I don't have to do anything or be anything. I can just dissipate into the moment and feel my embodying skin without any of the rabid worries of a person who is so stuck on time, societal order of appearance, and determination as requiring oneself to abide by cultural scripts at the cost of time spent tampering with one's inner flesh to test and see whether or not one really is and can be without the things on which everyone finds themselves so innocuously relying, which are shrouded under justifications made by each thing itself, like a "self-dialectic"[^1]. Ambiguity helps me sleepy because it acknowledges my whole life, as something so much more than just neat digestible eye-catching things, but things that do not matter at all but carry the weight of the entire sun bearing down on us.
+
+It allows me to sleep, I being mid-travel.
+
+*The following is an embedded Youtube video, a Minecraft rain ambient with a person in a cozy hilltop home with a foggy background with distant peaks, swaying leaves, and an orange-lit room, with Minecraft music playing and a Pomodoro timer on the screen, with the breaks signalled with a victorious in-game sound effect and followed with a moment of breaking weeds outside and partial building construction, each break continuing this:*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4GFilTktGsA?si=NfIf6KiUjMjvEKul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[^1]: "Self-dialectic": in the most offending version of this construction, in that the loop that has a sub-loop for its own justification—a self-made circularity, like a child tantruming and saying it is valid for it, but not necessarily so as to say that all self-security and -recognition are false and wrong, but to say that the idea of "just being" contradicts external damnations that pride themselves in packaging their insecurity, internalization, indoctrination, and ignorance as something that one must do and be in this rat race that runs way past the cosmos themselves.
+
+> [!question] Self-Responses
+> **1st Layer:**
+> 1. I feel that these are easily assumable: The Problem of Action and Motivation, The Human Need for Narrative, The Risk of Apathy, A Philosophy of Privilege
+>    You can easily assume what the author meant just based on they said it. No refutation and clarification on the author's part is required.
+> 
+> **2nd Layer:**
+> 1. I think that not fully addressing the critiques that we can easily assume given the nature of any passage and statement and that the author themselves has already made plain to us allows the passage to says its full point without getting caught up in constant refutation and clarification where that section is twice or thrice longer than the actual passage itself, which LLMs and people might then criticize for the opposite of "solipsism"—overly pre-emptive.

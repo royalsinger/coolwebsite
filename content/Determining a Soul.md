@@ -2,7 +2,7 @@ I know that it may be strange to have "Zettlekasten" link to "Determining a Soul
 
 This passage itself is not to construct an argument on the determination of a soul, but in the idea of the determining a soul in relation to the process of the Zettelkasten itself. It is a construction of a construction. 
 
-One may argue that I contemplate too much the system[^2], writing, permanence methodology (i.e., Zettelkasten), and epistemology as its own concept themselves. But this is necessary when taking on any analytical approach, as that is what I did when I started writing my autobiography-journal in the first place: doubting not only the word choices and syntax, but the philosophy of writing[^3] and methodology itself [^4] too. 
+One may argue that I contemplate too much the system[^2], writing, permanence methodology (i.e., Zettelkasten), and epistemology as its own concept themselves. But this is necessary when taking on any analytical approach, as that is what I did when I started writing my [[Autobiography-Journal|autobiography-journal]] in the first place: doubting not only the word choices and syntax, but the philosophy of writing[^3] and methodology itself [^4] too. 
 
 One particular change that will have a drastic impact on (1) **the way that I write itself**, (2) **how I express myself**, (3) **how I form my thoughts**, and (4) **how I am** is the use of footnotes, as I have relied stylistically noticeably on the use of parentheses to hold all of my extensive, footnote-level elaborations. 
 
