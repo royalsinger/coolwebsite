@@ -12,7 +12,7 @@ It is actually what helps me sleep. Because if anything happens, I can just be. 
 
 It allows me to sleep, I being mid-travel.
 
-*The following is an embedded Youtube video, a Minecraft rain ambient with a person in a cozy hilltop home with a foggy background with distant peaks, swaying leaves, and an orange-lit room, with Minecraft music playing and a Pomodoro timer on the screen, with the breaks signalled with a victorious in-game sound effect and followed with a moment of breaking weeds outside and partial building construction, each break continuing this:*
+*The following is an embedded Youtube video, a Minecraft rain ambient with a person in a cozy hilltop home with a foggy background with distant peaks, swaying leaves, and an orange-lit room, with Minecraft [[Music and Boredom|music]] playing and a Pomodoro timer on the screen, with the breaks signalled with a victorious in-game sound effect and followed with a moment of breaking weeds outside and partial building construction, each break continuing this:*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4GFilTktGsA?si=NfIf6KiUjMjvEKul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
