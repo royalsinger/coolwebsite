@@ -1,3 +1,8 @@
+---
+
+date: 2025-08-31
+
+---
 I pretend not to care, not to be affected. I watched *Naruto*, *Haikyu!!*, and *Kuroko no Basket* and the innumerable other stories of various formats like web comics and web novels.
 
 I am so affected, yet I go on as if it doesn't affect me at all. Everything, I feel that I can barely muster up the strength to exist and to have all these memories that I've so easily forgotten to make space for current goals, activities, and interests.

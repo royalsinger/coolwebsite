@@ -1,3 +1,8 @@
+---
+
+date: 2025-08-31
+
+---
 Wait, does music count as working against the default mode network? What if I enjoy ambient that makes me reflect and live in the ambiguity and think about my life, memories, and everything?
 
 I watched [a video encouraging boredom](https://www.youtube.com/watch?v=orQKfIXMiA8). And I was thinking that at home, I do listen to [ambient](https://www.youtube.com/watch?v=xLoYp9wbpJI) and do write a lot as a way to help me pace [[Voices|the influx, stream, and flux of my thoughts]] during such intense moments. It is only when I'm at the cafe during which I read and take active notes constantly throughout the entire day that my DMN is practically invisible. Being at home in a room all alone is perfect fuel for thoughts. It used to be very painful due to trauma, but it became my sanctuary, healing place, self-reclamation, and headquarters for my writing and intellectual and creative ambitious expansions.

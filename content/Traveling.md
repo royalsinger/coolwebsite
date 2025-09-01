@@ -1,3 +1,8 @@
+---
+
+date: 2025-08-31
+
+---
 I just realized that I'm always traveling. I'm like a song that cannot even bother being a finality in itself. It's just an endless loop, like a melody playing the same notes, the gray mist, rain, passersby, other passengers, all kinds of fleeting remote places through which one passes on the road while riding some public transportation vehicle like a bus only a few times, the infitude of tiny little nook-like details, the over a thousand people that I've met throughout the course of my life, and those numerous quiet spots that had a whole infinity of history that I have never known, but which I've only passed by once like a ghost.
 
 I am always traveling through my mind and memories.

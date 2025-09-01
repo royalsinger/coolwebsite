@@ -1,3 +1,8 @@
+---
+
+date: 2025-08-31
+
+---
 I think that what I'm most afraid of as a Zettelkasten [[Superuser|user]] is what I believe to be the overuse of internal links. Like, at most 2 links per 50 words in a note. That is the limit for me. I believe much more in the quality of having it extend linearly rather than it being a uber-dense heap.
 
 I mean 2 internal links per 50 words is already a fucking lot. My current index/starting page is already about to have 2.78 links per 50 words right now, being 360 words with 20 links. No need to go crazy.

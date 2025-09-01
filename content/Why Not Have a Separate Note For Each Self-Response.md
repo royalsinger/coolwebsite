@@ -1,3 +1,6 @@
+---
+date: 2025-08-30
+---
 I think a full thought is a better note unit.
 
 You can only know the individual text from the full thought. Context is consciousness

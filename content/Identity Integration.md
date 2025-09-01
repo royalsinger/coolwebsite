@@ -1,3 +1,8 @@
+---
+
+date: 2025-08-31
+
+---
 I can literally walk around my house since my parents are not here, and I can just go and look at everything and let my DMN activate. I can find all the memories and then go into appreciation of every single object, whether it be the books, the food items, the bathroom items, the cleaning items, furniture, many other things. I can do that.
 
 Or I can stay here and listen to ambient music and recall all the memories that I've had growing up and the fantasies and imaginations that I used to have years ago.

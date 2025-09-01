@@ -1,3 +1,8 @@
+---
+
+date: 2025-08-31
+
+---
 ### Initialization
 
 What's interesting is that in any small forum where you have to make an account to reply and post, it is easy to see how easily distinct you are. You just have to post and reply more than 5 times, and immediately, that user count of 2400 now looks so small, becasue you have surpassed probably 2350 of them.

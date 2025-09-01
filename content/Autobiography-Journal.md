@@ -1,1 +1,4 @@
+---
+date: 2025-08-30
+---
 The term "autobiography-journal" used to have a much more muscular definition, but it has become looser with time, coming to mean "corpus". However, I say "looser" in relation to myself, not in relation to some global objectivity. I know well that as long as I keep writing, especially with myself being the particular person that I am, I will keep "incurring" greater and greater particularity and the terms with which I associate and come to be associated. It is merely a thing of a thing altogether all over again, so whatever I do end up saying is its own coinage within the transparency of the passage. So if one gets picked up, sounds great, but really, nothing that any word could not already accomplish by passage-itself.
