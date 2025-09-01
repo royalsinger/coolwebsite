@@ -16,7 +16,7 @@ Plus, if you didn't notice, the way that you speak reveals who you are as a pers
 
 [^3]: E.g., my now-defunct practical philosophy of focusing on the abstract and being averse to "show, don't tell"
 
-[^4]: Specifically the way that I wrote and engaged, which included how my room appeared, how my desktop was fashioned, and so many other savory details that were all grappled with in the process of reclaiming the self given the nature of my autobiography-journal as an 20-year-old's project with a young adult's desire for "identity integration" as its constitution or charter.
+[^4]: Specifically the way that I wrote and engaged, which included how my room appeared, how my desktop was fashioned, and so many other savory details that were all grappled with in the process of reclaiming the self given the nature of my autobiography-journal as an 20-year-old's project with a young adult's desire for "[[Identity Integration|identity integration]]" as its constitution or charter.
 
 > [!question] [[Why Not Have a Separate Note For Each Self-Response|Self-Responses]]
 > 1. Why did they use "Determining a Soul" even if that's not what the note is about? Is this related to the total war?
